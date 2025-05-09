@@ -1,6 +1,6 @@
 local msg = Instance.new("Message", workspace)
 msg.Text = "sanslevetation script, turn to rightctrl (follow to Linux_Pinuks)"
-wait(3.3)
+wait(3)
 msg:Destroy()
 
 
